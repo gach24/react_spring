@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "02-react-intro": "pnpm --filter 02-react-intro dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
